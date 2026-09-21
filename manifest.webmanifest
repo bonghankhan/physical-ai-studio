@@ -1,0 +1,9 @@
+{
+  "name": "Physical AI Studio",
+  "short_name": "AI Studio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "description": "로그인 없이 바로 사용하는 브라우저 기반 Physical AI 교육 웹앱"
+}
